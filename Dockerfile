@@ -1,6 +1,6 @@
 FROM alpine
 
-LABEL org.opencontainers.image.source = https://github.com/kubedb/mssql-init-docker
+LABEL org.opencontainers.image.source = https://github.com/kubedb/db2-init-docker
 ARG TARGETOS
 ARG TARGETARCH
 
